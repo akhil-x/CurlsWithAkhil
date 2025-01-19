@@ -166,7 +166,7 @@ nav.scrolled {
 .hero {
   height: 100vh;
   background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(17, 17, 17, 0.8)),
-              url('https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=1920') center/cover fixed;
+              url('https://akhil-x.github.io/imagesforgymsite/assets/1.jpgauto=format&fit=crop&w=1920') center/cover fixed;
   display: flex;
   align-items: center;
   text-align: center;
@@ -289,7 +289,7 @@ h2 {
 .why-us {
   padding: 5rem 5%;
   background: linear-gradient(rgba(255, 159, 0, 0.1), rgba(255, 159, 0, 0.1)),
-              url('https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=1920') center/cover fixed;
+              url('https://akhil-x.github.io/imagesforgymsite/assets/2.jpgauto=format&fit=crop&w=1920') center/cover fixed;
   position: relative;
 }
 
@@ -382,7 +382,7 @@ h2 {
 .contact {
   padding: 5rem 5%;
   background: linear-gradient(rgba(17, 17, 17, 0.9), rgba(17, 17, 17, 0.9)),
-              url('https://images.unsplash.com/photo-1571902943202-507ec2618e8f?auto=format&fit=crop&w=1920') center/cover fixed;
+              url('https://akhil-x.github.io/imagesforgymsite/assets/3.jpg') center/cover fixed;
   position: relative;
 }
 
